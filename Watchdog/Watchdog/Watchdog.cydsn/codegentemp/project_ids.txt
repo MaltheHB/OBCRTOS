@@ -1,0 +1,6 @@
+C:\Users\malth\OneDrive\Dokumenter\PSoC Creator\Watchdog\Watchdog.cydsn\Watchdog.cyprj|b54d6308-1e2f-4b2b-ae34-74e3c69ae273
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|4f8b51b1-7a04-47d0-96f3-dd0767a6def7
+C:\Users\malth\OneDrive\Dokumenter\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|a20a9e39-7e8c-4287-a879-d1c071bd2e03
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|088fb07e-dd05-4ead-86fc-67a36a9a23ca
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|ea70dcca-c7fc-4991-92db-a1067725a66e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|15e35798-6868-4402-a98f-25db1cb6ae19
